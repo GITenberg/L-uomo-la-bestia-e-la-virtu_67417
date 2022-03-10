@@ -1,5 +1,8 @@
 _repo: L-uomo-la-bestia-e-la-virtu_67417
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67417-h/images/cover.jpg
 creator:
   author:
     agent_name: Pirandello, Luigi
@@ -11,6 +14,8 @@ creator:
     - https://it.wikipedia.org/wiki/Luigi_Pirandello
     - https://en.wikipedia.org/wiki/Luigi_Pirandello
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67417#L-uomo-la-bestia-e-la-virtu
 gutenberg_issued: '2022-02-16'
 identifiers:
   gutenberg: '67417'
